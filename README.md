@@ -10,7 +10,8 @@ There is a lack of insight into customer booking behavior, resulting in poor occ
 
 ## Contents
 
-- eda_hotel_booking.ipynb - Google Colab Notebook containing the EDA
+- EDA/hotel_booking_analysis/capstoneproject/SIBIN IQBAL.ipynb - Google Colab Notebook containing the EDA
+- Hotel Bookings.csv - Dataset used for EDA
 
 ## Dependencies
 
